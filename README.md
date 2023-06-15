@@ -22,6 +22,7 @@ http://127.0.0.1:8000/restaurant/booking/tables/ (Authentication Required)
 Default Database: MySql.
 If you do not wish to use MySql, please change the database settings with the following:
 
+
 DATABASES = {
 
     'default': {
@@ -33,3 +34,4 @@ DATABASES = {
     }
     
 }
+
