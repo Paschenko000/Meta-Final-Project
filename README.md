@@ -1,7 +1,7 @@
 # Meta-Final-Project
 Admin Login Details:
 User: admin
-Passwrd: Gfhjkm123
+Passwrd: littlelemon
 
 You need to be authenticated to add menu items. So before trying to add menu items, go to http://127.0.0.1:8000/admin
 
