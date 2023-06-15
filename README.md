@@ -7,12 +7,16 @@ You need to be authenticated to add menu items. So before trying to add menu ite
 
 How to delete menu items:
 http://127.0.0.1:8000/menu-items/{menu-item-id-here}
+
 example:
 http://127.0.0.1:8000/menu-items/1
 
 API URLs:
+
 http://127.0.0.1:8000/menu-items/ 
+
 http://127.0.0.1:8000/menu-items/{menu-item-id-here} 
+
 http://127.0.0.1:8000/restaurant/booking/tables/ (Authentication Required)
 
 Default Database: MySql.
