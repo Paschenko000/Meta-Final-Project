@@ -11,10 +11,9 @@ example:
 http://127.0.0.1:8000/menu-items/1
 
 API URLs:
-http://127.0.0.1:8000/menu-items/ (Authentication Required)
-http://127.0.0.1:8000/menu-items/{menu-item-id-here} (Authentication Required)
-http://127.0.0.1:8000/reservations/
-http://127.0.0.1:8000/booking/tables/
+http://127.0.0.1:8000/menu-items/ 
+http://127.0.0.1:8000/menu-items/{menu-item-id-here} 
+http://127.0.0.1:8000/restaurant/booking/tables/ (Authentication Required)
 
 Default Database: MySql.
 If you do not wish to use MySql, please change the database settings with the following:
